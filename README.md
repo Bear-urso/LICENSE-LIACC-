@@ -1,4 +1,4 @@
-# LICENSE-LIACC-
+# LICENSE-LIACC
 LICENSE FOR OPEN INNOVATION AND COLLABORATIVE CAPITALIZATION (LIACC)
 ## Version 3.2
 **“Encourage innovation without monopoly — with growth and fair return.”**
