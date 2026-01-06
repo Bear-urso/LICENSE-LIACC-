@@ -123,3 +123,7 @@ Disputes arising from this license will be resolved through extrajudicial commun
 - Consistency: Ensure all terms (e.g., “attribution,” “Whitepaper”) are used uniformly.
 - Logical Flow: Reorganize clauses for natural progression (e.g., define funding before models).
 - Reinforced Technical Mechanisms: Stronger language for automated treasury and token burning.
+
+
+**Download the PDF version:**
+https://archive.org/details/liacc-3.2-public
