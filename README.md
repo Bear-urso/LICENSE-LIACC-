@@ -124,6 +124,27 @@ Disputes arising from this license will be resolved through extrajudicial commun
 - Logical Flow: Reorganize clauses for natural progression (e.g., define funding before models).
 - Reinforced Technical Mechanisms: Stronger language for automated treasury and token burning.
 
+---
 
 **Download the PDF version:**
 https://archive.org/details/liacc-3.2-public
+
+---
+**Record redundancy:**
+
+https://paragraph.com/@bear-3/liacc-version-32
+
+https://viewblock.io/arweave/tx/u9bxPEFRhBv8v3Sc9-f18SkZZmXqFz9bHzWu7IqA5OM
+---
+
+**Author token**
+
+Token name: PRBEAR - "Professor Begnomar"
+
+Max Total Supply
+1,000,000,000
+
+https://basescan.org/token/0xa99a7e5ad042f92f496b8d620bee3a710b782067
+
+Token Contract (WITH 18 Decimals)
+0xa99A7e5aD042F92F496b8D620BEe3A710b782067
